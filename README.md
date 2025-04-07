@@ -10,7 +10,7 @@ Sumário:
 
 
 # Sobre
-Repositório criado com a finalidade de entregar a proposta de solução do desafio de código do módulo Componenentes e Injeção de Dependência do curso [Java Spring Professional](https://devsuperior.com.br/curso-java-spring-professional) disponível na plataforma DevSuperior e ministrado pelo professor Nélio Alves.
+Repositório criado com a finalidade de entregar a proposta de solução do desafio de código do módulo Componenentes e Injeção de Dependência do curso [Java Spring Professional](https://devsuperior.com.br/curso-java-spring-professional) disponível na plataforma DevSuperior, ministrado pelo professor Nélio Alves.
 
 # Tecnologias Utilizadas
 
